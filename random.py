@@ -28,3 +28,5 @@ def shoot(me):
             print("you and computer chose scissor, its a draw")
     else:
         print("you didnt pick either 0,1,2")
+
+shoot(1)
